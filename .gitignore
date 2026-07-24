@@ -15,6 +15,10 @@
 **/__pycache__/
 **/*.py[cod]
 
+# Runtime user data
+/backend/custom_products.json
+/backend/saved_draft.json
+
 # Tools and operating systems
 **/.firebase/
 *.log
