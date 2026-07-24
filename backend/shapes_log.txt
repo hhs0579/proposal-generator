@@ -1,0 +1,7 @@
+0 Shape 0 ''
+1 Text 1 'HOME APPLIANCE'
+2 Text 2 '상품 제안서'
+4 Text 3 '01  ESSER PRODUCT LINE-UP'
+5 TextBox 6 '베스트하임 믹쎈고 블랜더'
+6 TextBox 10 'KEY SELLING POINTS'
+7 TextBox 11 

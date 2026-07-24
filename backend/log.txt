@@ -1,0 +1,1017 @@
+--- Slide 1 ---
+[TextBox 4]: ESSER
+[TextBox 5]: PRODUCT
+[TextBox 6]: PROPOSAL
+[TextBox 7]: 에쎄르 회사 상품 제안서
+[TextBox 8]: 생활가전 · 리빙 · 뷰티케어 · 식품 · 수면 라인업
+[TextBox 12]: 2026 PRODUCT LINE-UP / CONFIDENTIAL
+--- Slide 2 ---
+[TextBox 3]: B2B PROPOSAL
+[TextBox 4]: 상품 제안서
+[TextBox 5]: ESSER B2B 제안 요약
+[TextBox 10]: 01
+[TextBox 11]: 채널 적합성
+[TextBox 12]: 복지몰 · 폐쇄몰 · 온라인몰 · 선물/답례품
+[TextBox 14]: 02
+[TextBox 15]: 상품군 확장성
+[TextBox 16]: 생활가전 · 리빙 · 뷰티케어 · 식품 · 수면
+[TextBox 18]: 03
+[TextBox 19]: 운영 편의성
+[TextBox 20]: 소비자가 · 원산지 · 구성 · 상세페이지 링크
+[TextBox 22]: 04
+[TextBox 23]: 거래 협의 기준
+[TextBox 24]: 온라인 최저가 · 공급가 · 재고수량 · 배송비 · 카톤수량 · 옵션 및 구성
+--- Slide 3 ---
+[TextBox 3]: CATEGORY MAP
+[TextBox 4]: 상품 제안서
+[TextBox 5]: 카테고리별 상품 구성
+[TextBox 7]: LINE-UP
+[TextBox 8]: 생활가전부터 식품, 수면, 뷰티케어까지 복수 채널 운영이 가능한 상품군으로 구성되어 있습니다.
+[Rounded Rectangle 9]: 카테고리
+[Rounded Rectangle 10]: 상품 수
+[Rounded Rectangle 11]: 가격대
+[Rounded Rectangle 12]: 추천 채널
+[Rounded Rectangle 13]: HOME APPLIANCE
+[Rounded Rectangle 14]: 22종
+[Rounded Rectangle 15]: 18,900~499,000원
+[Rounded Rectangle 16]: 복지몰 · 폐쇄몰 · 온라인몰
+[Rounded Rectangle 17]: LIVING
+[Rounded Rectangle 18]: 10종
+[Rounded Rectangle 19]: 9,000~99,000원
+[Rounded Rectangle 20]: 온라인몰 · 폐쇄몰 · 복지몰
+[Rounded Rectangle 21]: BEAUTY & CARE
+[Rounded Rectangle 22]: 10종
+[Rounded Rectangle 23]: 12,900~198,000원
+[Rounded Rectangle 24]: 선물/답례품 · 온라인몰 · 복지몰
+[Rounded Rectangle 25]: FOOD
+[Rounded Rectangle 26]: 5종
+[Rounded Rectangle 27]: 3,000~100,900원
+[Rounded Rectangle 28]: 온라인몰 · 복지몰 · 폐쇄몰
+[Rounded Rectangle 29]: SLEEP
+[Rounded Rectangle 30]: 3종
+[Rounded Rectangle 31]: 123,000~252,000원
+[Rounded Rectangle 32]: 복지몰 · 폐쇄몰 · 온라인몰
+[TextBox 33]: 운영 채널
+[TextBox 34]: 복지몰 · 폐쇄몰 · 온라인몰 · 선물/답례품 채널 기준 상품 구성
+--- Slide 4 ---
+[TextBox 3]: RECOMMENDED LINE-UP
+[TextBox 4]: 상품 제안서
+[TextBox 5]: 우선 추천 상품
+[TextBox 10]: 01
+[TextBox 11]: 복지몰 추천
+[TextBox 12]: 1. 브리넥스 물걸레 청소기
+[TextBox 13]: 2. 잠이솔솔 토퍼 매트리스
+[TextBox 14]: 3. 니카사 스팀다리미
+[TextBox 15]: 4. 스텐두유제조기
+[TextBox 16]: 5. 사본느리 비누 세트
+[TextBox 18]: 02
+[TextBox 19]: 온라인 기획전 추천
+[TextBox 20]: 1. 제스톰 텀블러 믹서기
+[TextBox 21]: 2. 촉촉한 영양 맛밤
+[TextBox 22]: 3. 매직그린행주 1+1 40장
+[TextBox 23]: 4. 제넥스 옷걸이 세트
+[TextBox 24]: 5. UV-c 살균기
+[TextBox 26]: 03
+[TextBox 27]: 프리미엄 선물 추천
+[TextBox 28]: 1. 프랑스 사본느리 컬렉션
+[TextBox 29]: 2. 델브미 올리브오일 100포
+[TextBox 30]: 3. 브리넥스 물걸레 청소기 프로
+[TextBox 31]: 4. 메타포 헤어드라이기
+[TextBox 32]: 5. 올스텐 에어프라이어
+--- Slide 5 ---
+[TextBox 3]: CHANNEL STRATEGY
+[TextBox 4]: 상품 제안서
+[TextBox 5]: 채널·시즌별 제안 방향
+[TextBox 10]: 복지몰 / 폐쇄몰
+[TextBox 11]: 생활가전·수면·프리미엄 선물 중심 임직원 복지, 명절 선물, 입주 선물 구성
+[TextBox 13]: 온라인몰 / 스마트스토어
+[TextBox 14]: 저가 진입 상품·묶음 판매 중심 맛밤, 행주, 옷걸이, 소형가전 기획전
+[TextBox 16]: 선물 / 답례품
+[TextBox 17]: 비누 세트·올리브오일·소형 케어 상품 브랜드 스토리와 패키지 완성도 강조
+[TextBox 19]: 시즌 기획전
+[TextBox 20]: 여름 선풍기, 겨울 가습기·침구, 연말 선물 계절 수요에 맞춘 상품 노출 운영
+--- Slide 6 ---
+[TextBox 3]: B2B TERMS
+[TextBox 4]: 상품 제안서
+[TextBox 5]: 거래 조건 및 운영 지원
+[TextBox 44]: 거래 조건 6개 항목
+[TextBox 45]: 상품별 온라인 최저가, 공급 조건, 재고 및 배송 기준을 빠르게 검토할 수 있도록 정리했습니다.
+[TextBox 47]: 온라인 최저가
+[TextBox 51]: 공급가
+[TextBox 55]: 재고수량
+[TextBox 59]: 배송비
+[TextBox 63]: 카톤수량
+[TextBox 67]: 옵션 및 구성
+--- Slide 7 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 01  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 믹쎈고 블랜더
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 2,000ml 대용량 유리 컨테이너로 가족 단위 조리에 적합한 블렌더 • 21,000rpm 고출력 모터와 8중 입체 칼날로 강력하고 균일한 블렌딩 • 스테인리스 분쇄기 추가 구성으로 분쇄·블렌딩 기능 • 자동보온 6시간, 최대 24시간 예약 기능으로 편리한 조리 환경 제공
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/9959332869
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 블랙 구성 | 본체:12*18*19.5cm 유리 컨테이너:22*9*27cm 스텐컨테이너:19*9.5*14.5cm
+--- Slide 8 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 01  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 믹쎈고 블랜더
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 컴팩트한 사이즈와 본체 + 칼날을 한번에 보관 가능한 슬라이서• 칼날 조립없이 안전하고 빠른 교체로 분리세척, 손쉬운 사용가능• 안전 설계 인증 완료,과열 방지 안전 잠금 구조로 더욱 안전한 슬라이서• 거치모드, 핸디모드로 더욱 편리한 사용 기능
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/13590321258
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 47]: 99,000원
+[TextBox 49]: 공급가
+[TextBox 51]: 43,000원
+[TextBox 53]: 재고수량
+[TextBox 55]: 아이보리:2019블랙:2033
+[TextBox 57]: 배송비
+[TextBox 59]: 공급가 포함
+[TextBox 61]: 카톤수량
+[TextBox 63]: 10개
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 블랙,화이트 구성 | 본체,거치대,재료투입구,누름봉,충전케이블(USB-C TYPE),채썰기 칼날,슬라이스 칼날(1.5mm),슬라이스 칼날(3mm),분쇄 칼날,강판
+--- Slide 9 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 02  ESSER PRODUCT LINE-UP
+[TextBox 48]: 베스트하임 제스톰 텀블러 믹서기
+[TextBox 51]: KEY SELLING POINTS
+[TextBox 52]: • 텀블러와 믹서 기능을 하나로 결합한 휴대형 블렌딩 제품 • 보온·보냉 최대 12시간 유지로 계절에 관계없이 실용적 상품 • 20,000RPM 고속 회전과 26중 칼날로 짧은 시간 안에 강력한 블렌딩 구현 • 스테인리스 304 소재와 450ml 용량으로 위생성과 휴대성
+[TextBox 54]: 상세페이지 링크
+[TextBox 55]: https://smartstore.naver.com/bestheim/products/12543132314
+[TextBox 83]: B2B 거래 검토 조건
+[TextBox 84]: 미확정 항목은 공란 처리
+[TextBox 86]: 온라인 최저가
+[TextBox 90]: 공급가
+[TextBox 94]: 재고수량
+[TextBox 98]: 배송비
+[TextBox 102]: 카톤수량
+[TextBox 106]: 옵션 및 구성
+[TextBox 108]: 색상 | 아이보리/블랙/핑크 구성 | 본체, 믹서기헤드 C타입케이블, 텀블러 헤드 실리콘빨대
+--- Slide 10 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 03  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 브리넥스 무선 탁상용 미니선풍기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 570g 가벼운 무게로 책상·침실·캠핑 등 다양한 공간에서 편하게 사용 • C타입 충전 방식과 원터치 작동으로 누구나 쉽게 쓰는 미니 선풍기 • 상하 90도 각도 조절과 좌우 100도 자동회전으로 바람이 넓게 퍼지는 구조 • 미끄럼 방지 구조로 탁상 위에서도 안정적인 사용감
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/13458773532
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리 구성 | 선풍기, usb케이블
+--- Slide 11 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 04  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 진공흡착 핸디형 스팀다리미
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 진공 흡착 방식으로 의류를 잡아주어 한 손으로도 편하게 다림질 가능 • 즉시 쿨링 기능과 먼지 제거 필터로 사용 후 관리까지 간편한 구성 • 400ml 물탱크와 전용 파우치 포함으로 실사용에 필요한 구성을 갖춘 상품 • 베이지·블루 두 가지 컬러로 취향과 공간에 맞게 선택 가능
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/13365949499
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 베이지/블루 구성 | 본품 물탱크(400ml), 파우치 계량컵, 추카필터 2ea
+--- Slide 12 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 05  ESSER PRODUCT LINE-UP
+[TextBox 42]: 베스트하임 모담 전기포트
+[TextBox 45]: KEY SELLING POINTS
+[TextBox 46]: • 원터치 자동출수와 7단계 출수 조절로 원하는 만큼 편하게 사용하는 전기포트 • 5도 단위 온도 조절로 차·분유·간단한 요리 준비까지 다양하게 활용 • 스테인리스 차망이 포함되어 티포트처럼 사용할 수 있는 실용적인 구성 • 2.6L와 4.2L 용량 선택으로 가정과 사무실 환경에 맞춰 사용
+[TextBox 48]: 상세페이지 링크
+[TextBox 49]: https://smartstore.naver.com/bestheim/products/11058110884
+[TextBox 77]: B2B 거래 검토 조건
+[TextBox 78]: 미확정 항목은 공란 처리
+[TextBox 80]: 온라인 최저가
+[TextBox 84]: 공급가
+[TextBox 88]: 재고수량
+[TextBox 92]: 배송비
+[TextBox 96]: 카톤수량
+[TextBox 100]: 옵션 및 구성
+[TextBox 102]: 색상 | 아이보리/블랙 구성 | 본체, 뚜겅, 전원코드 차망, 세척솔
+--- Slide 13 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 06  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 올스텐 에어프라이어
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 올스텐 구조와 토네이도 에어홀로 위생적인 조리와 바삭한 식감을 동시에 살린 에어프라이어 • 스텐 회전팬과 사각팬 구조로 다양한 메뉴를 넉넉하게 조리하기 좋은 구성 • 디바이더 증정으로 여러 식재료를 한 번에 나눠 조리할 수 있는 실용적인 상품 • 간단한 다이얼 조작 방식으로 연령대에 관계없이 쉽게 사용하는 주방가전
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/9972904284
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 본품, 팬, 바스켓 디바이더
+--- Slide 14 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 07  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 멀티 슬로우 쿠커
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 본체와 내솥이 분리되어 세척과 관리가 쉬운 슬로우 쿠커 • 세라믹 내솥과 8가지 조리 기능으로 찜·죽·탕 등 다양한 메뉴에 활용 • 디지털 온도·시간 조절로 조리 상태를 쉽게 맞출 수 있는 상품 • 자동보온 6시간, 예약 최대 24시간 기능으로 바쁜 일상에서도 편리하게 사용
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/10002927274
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 화이트/블랙 구성 | 본체, 내솥, 뚜껑 전원케이블, 계량컵
+--- Slide 15 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 08  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 만능 보풀제거기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 원터치 스위치 방식으로 간편하게 의류 보풀을 관리하는 생활 아이템 • 3엽 회전날과 보풀 제거망으로 옷감 표면을 깔끔하게 정리 • 다리미식 손잡이 구조로 손에 편하게 잡히는 사용감 • 19,900원 소비자가로 부담 없이 제안하기 좋은 생활잡화 상품
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/10003339224
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 블랙 구성 | 본체
+--- Slide 16 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 09  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 포터블 트라이탄 무선 블렌더
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 700ml 넉넉한 용량과 650g 가벼운 무게를 함께 갖춘 무선 블렌더 • 18,000RPM 회전수와 스테인리스 10중날로 빠르고 균일하게 블렌딩 • 트라이탄 용기와 IPX7 방수 구조로 휴대와 세척이 편한 제품 • 스트랩·세척솔·USB 케이블 포함으로 바로 사용하기 좋은 구성
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11947876950
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 블랙/화이트/올리브 구성 | 본품, 세척솔, 스트랩 USB케이블, 용기 하단 뚜껑
+--- Slide 17 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 10  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 올스텐 멀티 칼갈이
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 세라믹·숫돌·인조금강석 3종 구조로 칼날 상태에 맞춰 관리하는 주방 아이템 • 4 IN 1 구조로 여러 관리 기능을 하나에 담아 보관 부담이 적은 상품 • 인체공학적 형태와 미끄럼 방지 바닥으로 손에 편하고 안정적인 사용감 • 18,900원 소비자가로 부담 없이 제안하기 좋은 주방 소모품
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/bestheim/products/10003706870
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 블랙 구성 | 본품
+--- Slide 18 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 11  ESSER PRODUCT LINE-UP
+[TextBox 6]: 니카사 진공 흡착 스팀다리미
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 진공 흡착과 고온 스팀으로 의류 주름과 관리 고민을 함께 줄여주는 프리미엄 의류관리 상품 • 듀얼 쿨링 시스템과 2중 안전 보호 구조로 안심하고 사용할 수 있는 설계 • 99.99% 살균, 99% 이상 탈취 기능으로 위생적인 의류 관리 • 스탠드 거치대와 보관 파우치 포함으로 사용과 보관이 편한 패키지 구성
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/esrshop/products/12838986912
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 다크그레이/화이트 구성 | 본품, 물탱크 스펀지필터 2EA, 스탠드 거치대 지퍼형 보관파우치
+--- Slide 19 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 12  ESSER PRODUCT LINE-UP
+[TextBox 6]: 브이나인 치약
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 저자극·자연 유래 성분 콘셉트로 매일 부담 없이 사용하는 구강관리 제품 • 구취·충치·치태 관리 등 소비자가 쉽게 이해할 수 있는 기능 포인트 • 잇몸과 치주 건강을 함께 고려한 케어형 치약 이미지 • 150g 대용량 단품 구성으로 꾸준한 사용과 반복 구매에 적합
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/6664547176
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 화이트 구성 | 본품
+--- Slide 20 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 13  ESSER PRODUCT LINE-UP
+[TextBox 6]: 하트앤홈 캔들 향초 양초
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 소이캔들과 코튼 심지로 부드럽고 편안한 향초 사용감 • 유해성분 안전 검사 합격으로 안심하고 사용할 수 있는 향기 상품 • 115g 단품 구성으로 선물용·인테리어 소품용으로 부담 없는 사이즈 • 9,000원 소비자가로 가볍게 제안하기 좋은 라이프스타일 상품
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13523244383
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | - 구성 | 본품
+--- Slide 21 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 14  ESSER PRODUCT LINE-UP
+[TextBox 6]: 롱롱 그린백
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 식약처 인증과 항균력 테스트 완료로 신선보관에 대한 신뢰를 높인 상품 • 부패 억제 인증 메시지로 식재료를 더 오래 보관하고 싶은 고객 니즈에 적합 • S/M/L/XL 다양한 사이즈로 식재료와 보관 공간에 맞춰 선택 가능 • 냉장고 정리와 식재료 보관 고민을 직접적으로 덜어주는 생활용품
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/6961389624
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | - 구성 | 본품
+--- Slide 22 ---
+[Text 1]: SLEEP
+[Text 2]: 상품 제안서
+[Text 3]: 15  ESSER PRODUCT LINE-UP
+[TextBox 6]: 잠이솔솔 3단 접이식 토퍼 매트리스 15CM
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 15cm 고밀도 토퍼로 편안하고 안정적인 수면 환경을 만드는 침구 상품 • 복원력 중심 설계로 오래 사용해도 꺼짐 부담이 적은 구조 • 3단 접이식 구조로 보관과 이동이 쉬워 공간 활용에 좋은 구성 • 멀티싱글·슈퍼싱글·퀸 사이즈로 1인 가구부터 가족 침실까지 선택 가능
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13457874400
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 그레이 구성 | 본품
+--- Slide 23 ---
+[Text 1]: SLEEP
+[Text 2]: 상품 제안서
+[Text 3]: 16  ESSER PRODUCT LINE-UP
+[TextBox 6]: 잠이솔솔 토퍼 매트리스 11CM
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 11cm 두께로 쿠션감과 보관성을 균형 있게 갖춘 토퍼 • 고밀도 소재와 복원력 중심 설계로 오래 사용해도 편안한 수면감 • 멀티싱글부터 킹까지 폭넓은 사이즈로 1인 가구와 가족 침실 모두에 적합 • 네이비·차콜·그레이베이지 컬러로 침실 분위기에 맞춰 선택 가능
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13457623256
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 네이비/차콜/그레이베이지 구성 | 본품
+--- Slide 24 ---
+[Text 1]: SLEEP
+[Text 2]: 상품 제안서
+[Text 3]: 17  ESSER PRODUCT LINE-UP
+[TextBox 6]: 잠이솔솔 토퍼 매트리스 7CM
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 7cm 두께로 부담 없이 사용하기 좋은 실속형 토퍼 • 고밀도 복원력 설계로 바닥 생활이나 보조 매트리스용으로 적합 • 멀티싱글·슈퍼싱글·퀸·킹 사이즈로 생활 공간에 맞춰 선택 가능 • 가격 접근성이 좋아 첫 구매나 추가 구매를 유도하기 좋은 상품
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13457598363
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 네이비/차콜/그레이베이지 구성 | 본품
+--- Slide 25 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 18  ESSER PRODUCT LINE-UP
+[TextBox 6]: 올인원 파워에잇 저주파 마사지기 5종세트
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • EMS 전기 자극과 25Hz 저주파로 집에서도 간편하게 사용하는 홈케어 마사지 상품 • 15단계 강도 조절로 컨디션과 사용 부위에 맞춰 섬세하게 사용 가능 • 팔·다리·복부 패치 구성으로 원하는 부위를 편하게 관리 • 충전 부담이 적어 일상 속에서 반복 사용하기 좋은 구성
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/5406165617
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 블랙 구성 | 기본체1P, 팔 다리용 패치2P, 복부용패치2P
+--- Slide 26 ---
+[Text 1]: FOOD
+[Text 2]: 상품 제안서
+[Text 3]: 19  ESSER PRODUCT LINE-UP
+[TextBox 6]: 촉촉한 영양 맛밤 50G
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 50g 소포장으로 부담 없이 즐기기 좋은 간편 영양 간식 • 단밤 100% 콘셉트로 원물 간식의 장점을 직관적으로 보여주는 상품 • 1개·10개·20개·30개 구성으로 단품 구매부터 묶음·대량 판매까지 운영 가능 • 옐로우 패키지 톤으로 간식 카테고리 안에서 눈에 잘 띄는 디자인
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13263121749
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 옐로우 구성 | 1, 10, 20 30개
+--- Slide 27 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 20  ESSER PRODUCT LINE-UP
+[TextBox 6]: 홈쇼핑 빨간다리미 쫙쫙 스팀 왕 2in1 습식 건식 회전식 핸디형 미니 레드
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 건식·습식 2 IN 1 시스템으로 의류 상태에 맞춰 사용하는 스팀 다리미 • 13개 스팀 홀로 강한 스팀 분사와 살균 케어를 함께 담은 상품 • 180도 회전식 손잡이로 사용 후 보관까지 편한 구조 • 직관적인 다이얼 방식으로 복잡한 조작 없이 누구나 쉽게 사용
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/13437341490
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | 레드 구성 | 본체, 전용 받침대
+--- Slide 28 ---
+[Text 1]: FOOD
+[Text 2]: 상품 제안서
+[Text 3]: 21  ESSER PRODUCT LINE-UP
+[TextBox 6]: 부산 범일동 2대째 소문난 원조 장어구이 들깨장어탕 8인분/16인분
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 국내산 장어를 사용해 든든하게 즐기는 보양식형 간편식 상품 • 부산 범일동 유명 맛집 스토리로 지역성과 신뢰를 함께 담은 제품 • 8인분·16인분 구성으로 가족 식사와 선물 수요에 맞춰 선택 가능 • 실온보관이 가능해 배송과 보관이 편한 간편식
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/12107054052
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | - 구성 | -
+--- Slide 29 ---
+[Text 1]: FOOD
+[Text 2]: 상품 제안서
+[Text 3]: 22  ESSER PRODUCT LINE-UP
+[TextBox 14]: 봉황김치 모음전 당일제조 국내산 100% 3kg/5kg
+[TextBox 17]: KEY SELLING POINTS
+[TextBox 18]: • HACCP 인증 기반으로 믿고 구매할 수 있는 국내산 김치 상품 • 당일제조 콘셉트로 신선한 제조 과정과 품질 이미지를 직관적으로 전달 • 원자재와 부자재 100% 국내산으로 원산지를 중요하게 보는 고객에게 적합 • 3kg·5kg 구성으로 가정용부터 대량 구매까지 선택 가능
+[TextBox 20]: 상세페이지 링크
+[TextBox 21]: https://smartstore.naver.com/esrshop/products/8788607494
+[TextBox 49]: B2B 거래 검토 조건
+[TextBox 50]: 미확정 항목은 공란 처리
+[TextBox 52]: 온라인 최저가
+[TextBox 56]: 공급가
+[TextBox 60]: 재고수량
+[TextBox 64]: 배송비
+[TextBox 68]: 카톤수량
+[TextBox 72]: 옵션 및 구성
+[TextBox 74]: 색상 | - 구성 | -
+--- Slide 30 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 23  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 멀티쿠커 6L
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 전골팬·찜기·그릴을 한 번에 담은 6L 멀티쿠커 • 전골과 찜을 동시에 조리할 수 있어 홈파티나 가족 식사에 잘 어울리는 상품 • 논스틱 코팅과 핫플레이트 방식으로 식탁 위에서도 편하게 조리 가능 • 내열 강화유리 뚜껑과 스팀홀로 조리 상태를 쉽게 확인할 수 있는 구조
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11134511548
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 네이비 구성 | 본품 SET(본체, 뚜껑 구이팬, 찜기, 전골팬, 레시피)
+--- Slide 31 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 24  ESSER PRODUCT LINE-UP
+[TextBox 6]: 톰슨 음파칫솔
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 분당 3.2만 회 음파진동으로 구강을 꼼꼼하게 관리하는 전동칫솔 • 5가지 모드로 클리닝·화이트닝·마사지·민감 케어까지 상황에 맞춰 사용 • 무접점 충전과 방수 기능으로 욕실에서도 편하게 쓰기 좋은 상품 • 듀폰사 브러쉬와 라운딩 칫솔모로 잇몸에 부담이 적은 부드러운 사용감
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/esrshop/products/13166614060
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 본체, 무접점 충전기 전원 어댑터, 칫솔모 2EA 클레르 클렌징 듀얼 브러쉬1EA
+--- Slide 32 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 25  ESSER PRODUCT LINE-UP
+[TextBox 6]: 살균기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • UV 살균과 히팅건조 기능으로 칫솔을 위생적으로 관리하는 욕실 케어 상품 • 10분 UV 살균, 50분 히팅건조 구조로 매일 쓰는 칫솔을 깔끔하게 관리 • 99.9% 살균 테스트 완료 메시지로 안심하고 사용할 수 있는 제품 • 음파칫솔과 함께 구성하면 구강 케어 세트 상품으로 제안하기 좋음
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/esrshop/products/13197931199
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | -
+--- Slide 33 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 26  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 UV-c 살균기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • UVC 279nm 방식으로 1분 안에 간편하게 살균 케어하는 소형 살균기 • 스마트 센서 자동 ON/OFF 기능으로 안전하게 사용할 수 있는 구조 • 6시간마다 자동살균이 작동해 생활 속 위생 관리를 꾸준히 돕는 상품 • 무선충전 방식과 최대 33일 사용으로 설치와 사용 부담이 적은 제품
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/esrshop/products/6290878983
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 화이트 구성 | UV 변기살균기 고정거치대, USB충전선
+--- Slide 34 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 27  ESSER PRODUCT LINE-UP
+[TextBox 48]: 베스트하임 브리넥스 경량청소기
+[TextBox 51]: KEY SELLING POINTS
+[TextBox 52]: • 650g 가벼운 무게와 18,000PA 흡입력으로 성능과 휴대성을 함께 갖춘 무선 청소기 • BLDC 모터와 2중 필터로 생활 먼지를 깔끔하게 관리하는 상품 • 2시간 40분 초고속 충전, 최대 35분 사용으로 일상 청소에 부담 없이 활용 • 180도 핸들링과 롤브러쉬 헤드로 좁은 공간도 편하게 청소 가능
+[TextBox 54]: 상세페이지 링크
+[TextBox 55]: https://smartstore.naver.com/bestheim/products/10650784145
+[TextBox 83]: B2B 거래 검토 조건
+[TextBox 84]: 미확정 항목은 공란 처리
+[TextBox 86]: 온라인 최저가
+[TextBox 90]: 공급가
+[TextBox 94]: 재고수량
+[TextBox 98]: 배송비
+[TextBox 102]: 카톤수량
+[TextBox 106]: 옵션 및 구성
+[TextBox 108]: 색상 | 화이트/다크그레이 구성 | 롤브러쉬 헤드, 먼지통 금속필터, 먼지필터, 본체 틈새브러쉬 헤드, 충전어댑터 연장관 / 부착용 후크
+--- Slide 35 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 28  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 브리넥스 물걸레 청소기 베이직
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 진공흡입과 물걸레 청소를 한 번에 해결하는 올인원 청소기 • 스마트 LCD·음성안내·이지컨트롤로 처음 사용하는 사람도 쉽게 조작 • 자동세척 기능과 셀프 스탠딩 구조로 사용 후 관리가 편한 상품 • 3900mAh 배터리와 최대 37분 사용으로 넓은 공간 청소에도 적합
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/10979740560
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 화이트 구성 | 본체, 충전스테이션 정수탱크, 먼지필터 액세서리 보관함, 청소솔 필터브러시 / 롤브러시 1EA / 어댑터 / 오수탱크 / 본체손잡이
+--- Slide 36 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 29  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 브리넥스 물걸레 청소기 프로
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 진공흡입·물걸레·자동세척·건조까지 한 번에 관리하는 프로형 청소기 • 스마트 LCD와 음성안내로 고급 청소기를 쓰는 듯한 직관적인 사용감 • 5500pa 흡입력과 13등급 헤파필터로 먼지까지 꼼꼼하게 관리 • 3900mAh 배터리와 무선 구조로 집 안 곳곳을 편하게 이동하며 청소 가능
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11126523902
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 블랙 구성 | 본체, 충전스테이션 정수탱크, 먼지필터 액세서리 보관함, 청소솔 필터브러시 / 롤브러시 1EA / 어댑터 / 오수탱크 / 본체손잡이
+--- Slide 37 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 30  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 브리넥스 기화식 가습기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 자연기화식 가습 방식으로 실내 습도를 쾌적하게 관리하는 가습기 • 필터 자동건조 구조로 세균 번식 걱정을 덜어주는 관리형 상품 • 4.1L 대용량 수조와 최대 10시간 사용으로 하루 사용에 넉넉한 구성 • 리모컨·타이머·5가지 모드로 생활 패턴에 맞춰 편하게 조절 가능
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/12602334011
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리 오렌지 구성 | 본체, 물통, 필터 어댑터, 리모컨, 사용설명서 파우치
+--- Slide 38 ---
+[Text 1]: HOME APPLIANCE
+[Text 2]: 상품 제안서
+[Text 3]: 31  ESSER PRODUCT LINE-UP
+[TextBox 48]: 베스트하임 스텐두유제조기
+[TextBox 51]: KEY SELLING POINTS
+[TextBox 52]: • 올스텐 304와 내열유리 뚜껑으로 위생적이고 조리 상태를 확인하기 쉬운 두유제조기 • 8가지 조리모드와 예약·세척 패널로 두유뿐 아니라 다양한 메뉴에 활용 • 10중 칼날과 저소음 설계로 재료를 곱게 갈고 조용하게 사용하는 상품 • 41가지 레시피북 증정으로 구매 후 여러 메뉴를 바로 만들어보기 좋은 구성
+[TextBox 54]: 상세페이지 링크
+[TextBox 55]: https://smartstore.naver.com/bestheim/products/10244538596
+[TextBox 83]: B2B 거래 검토 조건
+[TextBox 84]: 미확정 항목은 공란 처리
+[TextBox 86]: 온라인 최저가
+[TextBox 90]: 공급가
+[TextBox 94]: 재고수량
+[TextBox 98]: 배송비
+[TextBox 102]: 카톤수량
+[TextBox 106]: 옵션 및 구성
+[TextBox 108]: 색상 | 다크그레이/딥그린/아이보리 구성 | 본체, 거름망, 세척솔 계량컵, 전원코드
+--- Slide 39 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 32  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 메타포 헤어드라이기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • BLDC 모터와 356g 초경량 설계로 손목 부담이 적은 전문가형 헤어드라이어 • 저소음 78dB, 3단계 온도·풍량 조절로 매일 편하게 사용하는 뷰티가전 • 백플로우 오토클리닝과 분리형 외부 필터로 위생 관리가 쉬운 구조 • 쿨샷 전환과 잠금 설정으로 원하는 스타일을 안정적으로 마무리
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/12492908013
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 버치베이지/블루머드 구성 | 본체, 거름망, 세척솔 계량컵, 전원코드
+--- Slide 40 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 33  ESSER PRODUCT LINE-UP
+[TextBox 6]: 에어 메타포 헤어드라이기
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • BLDC 모터 기반의 고성능 헤어드라이어로 프리미엄 뷰티가전 이미지를 살린 상품 • 356g 초경량과 인체공학 디자인으로 오래 사용해도 손목 부담이 적은 구조 • 3단계 온도·풍량 조절과 쿨샷 모드로 다양한 헤어 스타일링에 활용 • 오토클리닝과 분리형 필터로 위생 관리와 제품 관리가 쉬운 구성
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/esrshop/products/9200065543
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 버치베이지/블루머드 구성 | 본체, 거름망, 세척솔 계량컵, 전원코드
+--- Slide 41 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 34  ESSER PRODUCT LINE-UP
+[TextBox 36]: 베스트하임 양면도마
+[TextBox 39]: KEY SELLING POINTS
+[TextBox 40]: • 2 IN 1 양면 구조로 재료별로 구분해 위생적으로 사용하는 도마 • 스테인리스 스틸 소재로 세척이 쉽고 오래 쓰기 좋은 주방 아이템 • 미니 강판과 다층 구조 설계로 손질부터 조리 준비까지 실용적인 구성 • 290×390mm 사이즈로 가정용 주방에서 부담 없이 쓰기 좋은 규격
+[TextBox 42]: 상세페이지 링크
+[TextBox 43]: https://smartstore.naver.com/bestheim/products/10627758829
+[TextBox 71]: B2B 거래 검토 조건
+[TextBox 72]: 미확정 항목은 공란 처리
+[TextBox 74]: 온라인 최저가
+[TextBox 78]: 공급가
+[TextBox 82]: 재고수량
+[TextBox 86]: 배송비
+[TextBox 90]: 카톤수량
+[TextBox 94]: 옵션 및 구성
+[TextBox 96]: 색상 | - 구성 | 본품
+--- Slide 42 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 35  ESSER PRODUCT LINE-UP
+[TextBox 38]: 매직그린행주 1+1 40장
+[TextBox 41]: KEY SELLING POINTS
+[TextBox 42]: • PVA 소재로 물기와 기름기를 빠르게 닦아내는 실용형 행주 상품 • 반복 사용이 가능해 일회용품 사용을 줄이고 생활비 부담도 덜어주는 구성 • 99.9% 항균 감소 테스트와 5대 유해물질 불검출로 안심하고 사용하는 제품 • 40장 구성으로 가정 비축용이나 대량 사용에 적합
+[TextBox 44]: 상세페이지 링크
+[TextBox 45]: https://smartstore.naver.com/esrshop/products/9244936053
+[TextBox 73]: B2B 거래 검토 조건
+[TextBox 74]: 미확정 항목은 공란 처리
+[TextBox 76]: 온라인 최저가
+[TextBox 80]: 공급가
+[TextBox 84]: 재고수량
+[TextBox 88]: 배송비
+[TextBox 92]: 카톤수량
+[TextBox 96]: 옵션 및 구성
+[TextBox 98]: 색상 | 그린 구성 | 행주6장
+--- Slide 43 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 36  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 슬림 옷걸이
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 초슬림 구조로 옷장 공간을 넓고 깔끔하게 쓰기 좋은 정리형 생활상품 • 인체공학적 형태로 티셔츠·니트 등 의류 핏을 자연스럽게 유지 • 강철 프레임과 논슬립 코팅으로 옷이 쉽게 흘러내리지 않는 안정적인 걸림감 • 무독성 소재 메시지로 가족 모두 안심하고 사용할 수 있는 옷걸이
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11724973376
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 47]: 5,900원
+[TextBox 49]: 공급가
+[TextBox 51]: 3,000원
+[TextBox 53]: 재고수량
+[TextBox 55]: 아이보리:5701블랙:14004
+[TextBox 57]: 배송비
+[TextBox 59]: 3,000원
+[TextBox 61]: 카톤수량
+[TextBox 63]: 60p
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 5EA
+--- Slide 44 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 37  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 바지/치마 걸이 옷걸이
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 바지·치마 전용 구조로 하의 보관과 옷장 정리를 함께 해결하는 생활상품 • 슬림한 형태로 옷장 공간을 더 넓고 깔끔하게 쓰기 좋은 구성 • 논슬립 코팅과 강철 프레임으로 옷이 쉽게 흘러내리지 않는 안정적인 걸림감 • 아이보리 컬러로 옷장 안을 통일감 있게 정리하기 좋은 디자인
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11725134041
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 5EA
+[TextBox 69]: 5,900원
+[TextBox 70]: 3,000원
+[TextBox 71]: 3,000원
+[TextBox 72]: 60p
+[TextBox 73]: 아이보리:5529블랙:6014
+--- Slide 45 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 38  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 라운드 옷걸이
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 라운드형 구조로 티셔츠·니트·가디건을 깔끔하게 걸기 좋은 옷걸이 • 어깨 라인을 자연스럽게 받쳐 의류 형태를 오래 유지하기 좋은 상품 • 초슬림 디자인으로 좁은 옷장도 넓고 정돈감 있게 사용 • 논슬립 코팅과 강철 프레임으로 옷이 쉽게 흘러내리지 않는 안정적인 걸림감
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11721748854
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 5EA
+[TextBox 69]: 60p
+[TextBox 70]: 3,000원
+[TextBox 72]: 3,000원
+[TextBox 73]: 5,900원
+[TextBox 74]: 아이보리:6525블랙:11190
+--- Slide 46 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 40  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 바지/치마 집게 옷걸이
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 집게형 구조로 바지·치마를 깔끔하게 고정하는 하의 전용 옷걸이 • 논슬립 코팅과 강철 프레임으로 옷이 쉽게 흘러내리지 않는 안정적인 보관감 • 초슬림 형태로 옷장 안 하의 수납 공간을 효율적으로 정리 • 아이보리·블랙 컬러 운영으로 옷장 분위기에 맞춰 세트 구성 가능
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11725497707
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 5EA
+[TextBox 69]: 60p
+[TextBox 70]: 3,000원
+[TextBox 71]: 3,000원
+[TextBox 72]: 5,900원
+[TextBox 74]: 아이보리:25426블랙:8993
+--- Slide 47 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 39  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 아우터형 옷걸이
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 아우터형 구조로 자켓·코트·패딩처럼 무게감 있는 의류를 걸기 좋은 옷걸이 • 강철 프레임과 인체공학적 형태로 의류 처짐을 줄이고 형태를 안정적으로 유지 • 논슬립 코팅으로 두꺼운 옷도 쉽게 흘러내리지 않는 걸림감 • 초슬림 사이즈로 계절 의류를 정리하면서 옷장 공간도 깔끔하게 활용
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/11725606865
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 5EA
+--- Slide 48 ---
+[Text 1]: LIVING
+[Text 2]: 상품 제안서
+[Text 3]: 41  ESSER PRODUCT LINE-UP
+[TextBox 6]: 베스트하임 제넥스 프라임 논슬립 어깨뿔방지 옷걸이 60p [프라임세트]
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 60P 프라임 세트 구성으로 옷장 전체를 한 번에 정리하기 좋은 상품 • 어깨뿔 방지와 논슬립 기능을 함께 담은 고급형 옷걸이 세트 • 라운드·슬림·아우터·하의용 등 다양한 의류 타입에 맞춰 사용 가능 • 아이보리·블랙 컬러로 옷장과 드레스룸을 깔끔하게 연출하기 좋은 디자인
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://smartstore.naver.com/bestheim/products/13626329807
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | 아이보리/블랙 구성 | 60EA
+--- Slide 49 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 42  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 프랑스 전통 제조 방식과 트리플밀드 공법을 담은 프리미엄 비누 세트 • 식물성 원료 3종을 기반으로 자연스럽고 부드러운 케어 이미지를 살린 상품 • MIT·CMIT 불검출 테스트 완료로 안심하고 사용할 수 있는 비누 • 페이퍼케이스·틴케이스·쇼핑백 구성으로 선물 세트로서의 완성도가 높은 제품
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/8894960504
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 페이퍼케이스 6P 틴케이스4P, 쇼핑백
+--- Slide 50 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 43  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 프로방스 무드를 담은 프랑스 전통 비누 컬렉션 • 트리플밀드 공법으로 쉽게 무르지 않고 단단하게 오래 쓰는 사용감 • 각질·블랙헤드·메이크업 세정까지 고려한 데일리 클렌징 비누 • 페이퍼케이스 6P와 틴케이스 4P 구성으로 선물 세트로도 만족도 높은 상품
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/13267380626
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 페이퍼케이스 6P 틴케이스4P, 쇼핑백
+--- Slide 51 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 44  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 코트다쥐르 콘셉트를 담은 프리미엄 프랑스 비누 컬렉션 • 팜오일·올리브오일·시어버터 원료로 부드러운 사용감을 살린 상품 • 100일 제조 시간 스토리로 장인정신과 고급스러운 이미지를 담은 비누 • MIT·CMIT 불검출 테스트 완료로 안심하고 사용할 수 있는 제품
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/8894961019
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 페이퍼케이스 6P 틴케이스4P, 쇼핑백
+--- Slide 52 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 45  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 틴케이스와 100g 비누 구성으로 휴대와 보관이 쉬운 단품형 상품 • 프랑스 전통 제조 방식과 트리플밀드 공법으로 고급스러운 품질감을 담은 비누 • 팜오일·올리브오일·시어버터 원료로 자연스럽고 부드러운 클렌징 사용감 • 12,900원 소비자가로 체험 구매와 향별 수집 구매에 어울리는 가격대
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/9106541980
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 틴케이스 1P 비누 1p
+--- Slide 53 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 46  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 200g 용량의 틴케이스 비누로 넉넉하게 오래 쓰기 좋은 단품형 상품 • 트리플밀드 공법으로 쉽게 무르지 않고 단단하게 유지되는 사용감 • 틴케이스 패키지로 사용 후 보관이 쉽고 선물용으로도 좋은 구성 • 프랑스 원산지와 전통 제조 스토리로 프리미엄 이미지를 담은 비누
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/8161997339
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 틴케이스 1P 비누 1p
+--- Slide 54 ---
+[Text 1]: BEAUTY & CARE
+[Text 2]: 상품 제안서
+[Text 3]: 47  ESSER PRODUCT LINE-UP
+[TextBox 6]: 프랑스 사본느리 비누
+[TextBox 10]: KEY SELLING POINTS
+[TextBox 11]: • 대형 틴케이스와 100g 비누 4개로 구성된 선물형 패키지 • 프랑스 전통 제조 방식과 100일 제조 스토리로 프리미엄 감성을 담은 비누 세트 • 팜오일·올리브오일·시어버터 원료와 트리플밀드 공법으로 부드럽고 단단한 사용감 • 15×15cm 대형 틴케이스로 보관·장식·재사용까지 좋은 구성
+[TextBox 13]: 상세페이지 링크
+[TextBox 14]: https://brand.naver.com/lasavonneriedenyons/products/6420150396
+[TextBox 42]: B2B 거래 검토 조건
+[TextBox 43]: 미확정 항목은 공란 처리
+[TextBox 45]: 온라인 최저가
+[TextBox 49]: 공급가
+[TextBox 53]: 재고수량
+[TextBox 57]: 배송비
+[TextBox 61]: 카톤수량
+[TextBox 65]: 옵션 및 구성
+[TextBox 67]: 색상 | - 구성 | 대형 틴케이스 1p 100g 비누1p x 4
+--- Slide 55 ---
+[Text 1]: FOOD
+[Text 2]: 상품 제안서
+[Text 3]: 48  ESSER PRODUCT LINE-UP
+[TextBox 6]: 델브미 올리브오일 100포
+[TextBox 9]: KEY SELLING POINTS
+[TextBox 10]: • 낮은 산도 0.16과 유기농 100% 원료로 완성한 프리미엄 올리브오일 • 스페인 안달루시아 단일품종 원료를 사용해 원산지 스토리가 분명한 상품 • 폴리페놀 750mg, 올레오칸탈 44mg 함유로 건강한 오일 섭취를 원하는 고객에게 적합 • USDA 인증 원료와 국내 유기가공인증으로 안심하고 선택할 수 있는 제품
+[TextBox 12]: 상세페이지 링크
+[TextBox 13]: https://smartstore.naver.com/esrshop/products/12874218820
+[TextBox 41]: B2B 거래 검토 조건
+[TextBox 42]: 미확정 항목은 공란 처리
+[TextBox 44]: 온라인 최저가
+[TextBox 48]: 공급가
+[TextBox 52]: 재고수량
+[TextBox 56]: 배송비
+[TextBox 60]: 카톤수량
+[TextBox 64]: 옵션 및 구성
+[TextBox 66]: 색상 | - 구성 | 100포
+--- Slide 56 ---
+[TextBox 3]: ESSER
+[TextBox 4]: THANK YOU
+[TextBox 5]: 상품 검토 및 협업 제안을 기다립니다.
+[TextBox 6]: ESSER Product Proposal · 2026 Product Line-up
+[TextBox 13]: HOME APPLIANCE · LIVING · BEAUTY & CARE · FOOD · SLEEP
