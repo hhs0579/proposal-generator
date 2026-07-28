@@ -7,5 +7,4 @@ services:
       - "8000:8000"
     restart: always
     volumes:
-      - ./backend/custom_products.json:/app/backend/custom_products.json
-      - ./backend/saved_draft.json:/app/backend/saved_draft.json
+      - ./backend/data:/app/backend/data

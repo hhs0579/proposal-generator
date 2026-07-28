@@ -5,6 +5,7 @@ interface TemplateProduct {
   catalog_id: string;
   slide_index: number;
   product_name: string;
+  description?: string;
   options: string;
   onlineLowestPrice?: string;
   supplyPrice?: string;
@@ -20,6 +21,7 @@ interface SelectedProduct {
   catalog_id?: string;
   slide_index: number;
   name: string;
+  description: string;
   supplyPrice: string;
   stockQuantity: string;
   onlineLowestPrice: string;
@@ -40,6 +42,30 @@ let productIdSequence = Date.now();
 
 const createProductId = () => ++productIdSequence;
 
+const normalizeSelectedProduct = (product: Partial<SelectedProduct>): SelectedProduct => {
+  const catalogId = product.catalog_id;
+  const isCustom =
+    Boolean(product.is_new) ||
+    (typeof catalogId === 'string' && catalogId.startsWith('custom:')) ||
+    (product.slide_index ?? -1) < 0;
+
+  return {
+    id: product.id ?? createProductId(),
+    catalog_id: catalogId,
+    slide_index: isCustom ? -1 : (product.slide_index ?? -1),
+    name: product.name ?? '',
+    description: product.description ?? '',
+    supplyPrice: product.supplyPrice ?? '',
+    stockQuantity: product.stockQuantity ?? '',
+    onlineLowestPrice: product.onlineLowestPrice ?? '',
+    shippingFee: product.shippingFee ?? '',
+    cartonQuantity: product.cartonQuantity ?? '',
+    options: product.options ?? '',
+    image_base64: product.image_base64 ?? null,
+    is_new: isCustom
+  };
+};
+
 const fetchTemplateProducts = async () => {
   try {
     const res = await fetch('/products');
@@ -51,8 +77,32 @@ const fetchTemplateProducts = async () => {
   }
 };
 
-onMounted(() => {
-  fetchTemplateProducts();
+const loadDraft = async (silent = false) => {
+  try {
+    const res = await fetch('/load');
+    if (!res.ok) throw new Error("Load failed");
+
+    const data = await res.json();
+    if (Array.isArray(data) && data.length > 0) {
+      selectedProducts.value = data.map(normalizeSelectedProduct);
+      if (!silent) {
+        alert(`임시저장한 작업 초안 ${data.length}개를 불러왔습니다.`);
+      }
+      return true;
+    }
+
+    if (!silent) alert("저장된 내역이 없습니다.");
+    return false;
+  } catch (e) {
+    if (!silent) alert("불러오기 중 오류가 발생했습니다.");
+    return false;
+  }
+};
+
+onMounted(async () => {
+  await fetchTemplateProducts();
+  // 임시저장본이 있으면 작업 중인 선택 목록을 자동으로 복원한다.
+  await loadDraft(true);
 });
 
 const getTemplateId = (product: TemplateProduct) =>
@@ -74,12 +124,15 @@ const addFromTemplate = (t: TemplateProduct) => {
   if (isTemplateAdded(t)) {
     return;
   }
+
+  const isCustom = Boolean(t.is_custom);
   
   selectedProducts.value.push({
     id: createProductId(),
     catalog_id: getTemplateId(t),
-    slide_index: t.is_custom ? -1 : t.slide_index,
+    slide_index: isCustom ? -1 : t.slide_index,
     name: t.product_name,
+    description: t.description || '',
     supplyPrice: t.supplyPrice || '',
     stockQuantity: t.stockQuantity || '',
     onlineLowestPrice: t.onlineLowestPrice || '',
@@ -87,7 +140,8 @@ const addFromTemplate = (t: TemplateProduct) => {
     cartonQuantity: t.cartonQuantity || '',
     options: t.options || '',
     image_base64: t.image_base64 || null,
-    is_new: Boolean(t.is_custom)
+    // 커스텀 상품은 항상 새 슬라이드 할당 대상으로 보낸다
+    is_new: isCustom
   });
 };
 
@@ -106,6 +160,7 @@ const addCustomProduct = () => {
     id: createProductId(),
     slide_index: -1, // 백엔드에서 남는 슬라이드 인덱스를 할당해줌
     name: '',
+    description: '',
     supplyPrice: '',
     stockQuantity: '',
     onlineLowestPrice: '',
@@ -157,48 +212,133 @@ const removeProduct = (id: number) => {
   selectedProducts.value = selectedProducts.value.filter(p => p.id !== id);
 };
 
-const saveDraft = async () => {
+const moveItem = <T>(list: T[], index: number, direction: -1 | 1) => {
+  const target = index + direction;
+  if (target < 0 || target >= list.length) return list;
+  const next = [...list];
+  const [item] = next.splice(index, 1);
+  next.splice(target, 0, item);
+  return next;
+};
+
+const moveSelectedProduct = (index: number, direction: -1 | 1) => {
+  selectedProducts.value = moveItem(selectedProducts.value, index, direction);
+};
+
+const moveTemplateProduct = (index: number, direction: -1 | 1, event?: Event) => {
+  event?.preventDefault();
+  event?.stopPropagation();
+  templateProducts.value = moveItem(templateProducts.value, index, direction);
+};
+
+const deleteCatalogProduct = async (template: TemplateProduct, event: Event) => {
+  event.preventDefault();
+  event.stopPropagation();
+
+  const catalogId = getTemplateId(template);
+  const label = template.product_name || catalogId;
+  if (!confirm(`'${label}' 상품을 기존 상품 목록에서 삭제할까요?`)) {
+    return;
+  }
+
   try {
-    const payload = { products: selectedProducts.value };
+    const res = await fetch('/products/delete', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ catalog_id: catalogId })
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || 'Delete failed');
+    }
+
+    checkedTemplateIds.value = checkedTemplateIds.value.filter(id => id !== catalogId);
+    selectedProducts.value = selectedProducts.value.filter(
+      product => product.catalog_id !== catalogId
+    );
+    await fetchTemplateProducts();
+    alert('기존 상품 목록에서 삭제되었습니다.');
+  } catch (e) {
+    console.error(e);
+    alert(`상품 삭제 중 오류가 발생했습니다.\n${e instanceof Error ? e.message : ''}`);
+  }
+};
+
+const saveDraft = async () => {
+  if (selectedProducts.value.length === 0) {
+    alert("임시저장할 상품이 없습니다. 상품을 추가한 뒤 다시 시도해 주세요.");
+    return;
+  }
+
+  try {
+    const payload = {
+      products: selectedProducts.value.map(normalizeSelectedProduct)
+    };
     const res = await fetch('/save', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(payload)
     });
-    if (res.ok) alert("현재 작업 상태가 임시 저장되었습니다.");
-    else throw new Error("Save failed");
+    if (!res.ok) throw new Error("Save failed");
+
+    const result = await res.json();
+    alert(
+      `작업 초안 ${result.count ?? selectedProducts.value.length}개가 임시저장되었습니다.\n` +
+      `'불러오기'로 이어서 작업할 수 있습니다.`
+    );
   } catch (e) {
-    alert("저장 중 오류가 발생했습니다.");
+    alert("임시저장 중 오류가 발생했습니다.");
   }
 };
 
-const loadDraft = async () => {
+const loadDraftManual = async () => {
+  await loadDraft(false);
+};
+
+const persistProducts = async () => {
+  if (selectedProducts.value.length === 0) {
+    alert("저장할 상품이 없습니다. 상품을 추가한 뒤 다시 시도해 주세요.");
+    return;
+  }
+
+  const unnamed = selectedProducts.value.find(product => !product.name.trim());
+  if (unnamed) {
+    alert("상품명이 비어 있는 항목이 있습니다. 상품명을 입력한 뒤 저장해 주세요.");
+    return;
+  }
+
   try {
-    const res = await fetch('/load');
-    if (res.ok) {
-      const data = await res.json();
-      if (data.length > 0) {
-        selectedProducts.value = data.map((product: Partial<SelectedProduct>) => ({
-          id: product.id ?? createProductId(),
-          catalog_id: product.catalog_id,
-          slide_index: product.slide_index ?? -1,
-          name: product.name ?? '',
-          supplyPrice: product.supplyPrice ?? '',
-          stockQuantity: product.stockQuantity ?? '',
-          onlineLowestPrice: product.onlineLowestPrice ?? '',
-          shippingFee: product.shippingFee ?? '',
-          cartonQuantity: product.cartonQuantity ?? '',
-          options: product.options ?? '',
-          image_base64: product.image_base64 ?? null,
-          is_new: product.is_new ?? false
-        }));
-        alert("저장된 내역을 성공적으로 불러왔습니다.");
-      } else {
-        alert("저장된 내역이 없습니다.");
-      }
+    const payload = {
+      products: selectedProducts.value.map(normalizeSelectedProduct)
+    };
+    const res = await fetch('/products/persist', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    });
+    if (!res.ok) {
+      const err = await res.json().catch(() => ({}));
+      throw new Error(err.detail || "Persist failed");
     }
+
+    const result = await res.json();
+    const persisted = (result.products || []) as Array<{ catalog_id: string; is_custom: boolean }>;
+
+    selectedProducts.value.forEach((product, index) => {
+      const saved = persisted[index];
+      if (!saved) return;
+      product.catalog_id = saved.catalog_id;
+      if (saved.is_custom) product.is_new = true;
+    });
+
+    await fetchTemplateProducts();
+    alert(
+      `상품 ${result.count ?? selectedProducts.value.length}개의 가격·수량·옵션이 저장되었습니다.\n` +
+      `다음에 '기존 상품 여러 개 선택하기'로 다시 골라도 저장된 값이 채워집니다.`
+    );
   } catch (e) {
-    alert("불러오기 중 오류가 발생했습니다.");
+    console.error(e);
+    alert(`저장하기 중 오류가 발생했습니다.\n${e instanceof Error ? e.message : ""}`);
   }
 };
 
@@ -242,7 +382,7 @@ const generateProposal = async () => {
   <div class="app-container">
     <header class="header">
       <h1>ESSER B2B 제안서 자동 생성기</h1>
-      <p>기존 템플릿의 상품을 선택하고 단가, 수량 등을 입력하여 제안서를 구성하세요.</p>
+      <p>임시저장은 작업 초안, 저장하기는 상품별 가격·수량 영구 저장입니다.</p>
     </header>
 
     <main class="content">
@@ -250,7 +390,21 @@ const generateProposal = async () => {
         <div v-for="(product, index) in selectedProducts" :key="product.id" class="product-card">
           <div class="card-header">
             <span class="product-number">선택 상품 {{ index + 1 }} : {{ product.name }}</span>
-            <button class="btn-remove" @click="removeProduct(product.id)">삭제</button>
+            <div class="card-actions">
+              <button
+                class="btn-order"
+                :disabled="index === 0"
+                title="위로"
+                @click="moveSelectedProduct(index, -1)"
+              >▲</button>
+              <button
+                class="btn-order"
+                :disabled="index === selectedProducts.length - 1"
+                title="아래로"
+                @click="moveSelectedProduct(index, 1)"
+              >▼</button>
+              <button class="btn-remove" @click="removeProduct(product.id)">삭제</button>
+            </div>
           </div>
 
           <div class="card-body">
@@ -258,6 +412,15 @@ const generateProposal = async () => {
             <div class="input-group full-width">
               <label>상품명</label>
               <input type="text" v-model="product.name" placeholder="상품명 입력" />
+            </div>
+
+            <div class="input-group full-width">
+              <label>상품 상세 설명 (KEY SELLING POINTS)</label>
+              <textarea
+                v-model="product.description"
+                rows="4"
+                placeholder="예: • 핵심 장점 1&#10;• 핵심 장점 2&#10;• 핵심 장점 3"
+              ></textarea>
             </div>
 
             <!-- 새 상품 전용 필드 (이미지) -->
@@ -317,9 +480,10 @@ const generateProposal = async () => {
     <div v-if="showModal" class="modal-overlay" @click.self="showModal = false">
       <div class="modal-content">
         <h2>기존 상품 선택</h2>
+        <p class="modal-hint">체크한 뒤 추가하면 목록 순서대로 들어갑니다. ▲▼로 순서를 바꿀 수 있습니다.</p>
         <div class="template-list">
           <label
-            v-for="t in templateProducts"
+            v-for="(t, index) in templateProducts"
             :key="getTemplateId(t)"
             class="template-item"
             :class="{ disabled: isTemplateAdded(t) }"
@@ -335,6 +499,30 @@ const generateProposal = async () => {
               <small v-if="t.is_custom">직접 등록</small>
             </span>
             <span class="t-slide">{{ t.is_custom ? '저장 상품' : `슬라이드 ${t.slide_index + 1}` }}</span>
+            <div class="template-actions">
+              <button
+                type="button"
+                class="btn-order"
+                :disabled="index === 0"
+                title="위로"
+                @click="moveTemplateProduct(index, -1, $event)"
+              >▲</button>
+              <button
+                type="button"
+                class="btn-order"
+                :disabled="index === templateProducts.length - 1"
+                title="아래로"
+                @click="moveTemplateProduct(index, 1, $event)"
+              >▼</button>
+              <button
+                type="button"
+                class="btn-delete-catalog"
+                title="목록에서 삭제"
+                @click="deleteCatalogProduct(t, $event)"
+              >
+                삭제
+              </button>
+            </div>
           </label>
         </div>
         <div class="modal-actions">
@@ -351,8 +539,9 @@ const generateProposal = async () => {
         <span>총 선택된 상품: <strong>{{ selectedProducts.length }}</strong>개</span>
       </div>
       <div class="footer-actions">
-        <button class="btn-secondary" @click="loadDraft">불러오기</button>
+        <button class="btn-secondary" @click="loadDraftManual">불러오기</button>
         <button class="btn-secondary" @click="saveDraft">임시저장</button>
+        <button class="btn-persist" @click="persistProducts">저장하기</button>
         <button class="btn-generate" :disabled="selectedProducts.length === 0 || isGenerating" @click="generateProposal">
           <span v-if="isGenerating" class="spinner"></span>
           {{ isGenerating ? '생성 중...' : 'PPT 다운로드' }}
@@ -408,6 +597,33 @@ const generateProposal = async () => {
 .product-number {
   font-weight: bold;
   color: #007bff;
+}
+
+.card-actions,
+.template-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.btn-order {
+  background: #eef2f7;
+  color: #334155;
+  border: 1px solid #d0d7de;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.btn-order:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.btn-order:not(:disabled):hover {
+  background: #dbe4ee;
 }
 
 .btn-remove {
@@ -546,6 +762,12 @@ const generateProposal = async () => {
 
 .modal-content h2 { margin-top: 0; }
 
+.modal-hint {
+  margin: 0 0 12px;
+  color: #6c757d;
+  font-size: 13px;
+}
+
 .template-list {
   flex: 1;
   overflow-y: auto;
@@ -596,7 +818,25 @@ const generateProposal = async () => {
   font-size: 10px;
 }
 
-.t-slide { color: #888; font-size: 12px; }
+.t-slide { color: #888; font-size: 12px; white-space: nowrap; }
+
+.btn-delete-catalog {
+  flex: 0 0 auto;
+  padding: 5px 10px;
+  border: 1px solid #dc3545;
+  border-radius: 6px;
+  background: white;
+  color: #dc3545;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-delete-catalog:hover {
+  background: #dc3545;
+  color: white;
+}
+
 
 .modal-actions {
   display: flex;
@@ -662,6 +902,21 @@ const generateProposal = async () => {
 
 .btn-secondary:hover {
   background: #e9ecef;
+}
+
+.btn-persist {
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-persist:hover {
+  background: #218838;
 }
 
 .btn-generate {
