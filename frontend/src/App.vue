@@ -6,6 +6,7 @@ interface TemplateProduct {
   slide_index: number;
   product_name: string;
   description?: string;
+  detailLink?: string;
   options: string;
   onlineLowestPrice?: string;
   supplyPrice?: string;
@@ -22,6 +23,7 @@ interface SelectedProduct {
   slide_index: number;
   name: string;
   description: string;
+  detailLink: string;
   supplyPrice: string;
   stockQuantity: string;
   onlineLowestPrice: string;
@@ -55,6 +57,7 @@ const normalizeSelectedProduct = (product: Partial<SelectedProduct>): SelectedPr
     slide_index: isCustom ? -1 : (product.slide_index ?? -1),
     name: product.name ?? '',
     description: product.description ?? '',
+    detailLink: product.detailLink ?? '',
     supplyPrice: product.supplyPrice ?? '',
     stockQuantity: product.stockQuantity ?? '',
     onlineLowestPrice: product.onlineLowestPrice ?? '',
@@ -133,6 +136,7 @@ const addFromTemplate = (t: TemplateProduct) => {
     slide_index: isCustom ? -1 : t.slide_index,
     name: t.product_name,
     description: t.description || '',
+    detailLink: t.detailLink || '',
     supplyPrice: t.supplyPrice || '',
     stockQuantity: t.stockQuantity || '',
     onlineLowestPrice: t.onlineLowestPrice || '',
@@ -161,6 +165,7 @@ const addCustomProduct = () => {
     slide_index: -1, // 백엔드에서 남는 슬라이드 인덱스를 할당해줌
     name: '',
     description: '',
+    detailLink: '',
     supplyPrice: '',
     stockQuantity: '',
     onlineLowestPrice: '',
@@ -421,6 +426,15 @@ const generateProposal = async () => {
                 rows="4"
                 placeholder="예: • 핵심 장점 1&#10;• 핵심 장점 2&#10;• 핵심 장점 3"
               ></textarea>
+            </div>
+
+            <div class="input-group full-width">
+              <label>상세페이지 링크</label>
+              <input
+                type="text"
+                v-model="product.detailLink"
+                placeholder="예: https://smartstore.naver.com/..."
+              />
             </div>
 
             <!-- 새 상품 전용 필드 (이미지) -->

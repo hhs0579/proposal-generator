@@ -37,6 +37,7 @@ class SelectedProduct(BaseModel):
     slide_index: int
     name: Optional[str] = ""
     description: str = ""
+    detailLink: str = ""
     onlineLowestPrice: str = ""
     supplyPrice: str = ""
     stockQuantity: str = ""
@@ -183,14 +184,30 @@ def set_labeled_value(slide, label_text, new_value, font_size=9):
     replace_text_in_shape(primary, value, font_size=font_size)
 
 
+def set_detail_link(slide, link_value, font_size=9):
+    """상세페이지 링크 라벨 다음 박스에 URL을 넣는다. 공란이면 비운다."""
+    for idx, shape in enumerate(slide.shapes):
+        if not shape.has_text_frame:
+            continue
+        if shape.text.strip() != "상세페이지 링크":
+            continue
+        for j in range(idx + 1, min(idx + 4, len(slide.shapes))):
+            target = slide.shapes[j]
+            if not target.has_text_frame:
+                continue
+            replace_text_in_shape(target, (link_value or "").strip(), font_size=font_size)
+            return
+
+
 def apply_product_b2b_fields(slide, prod):
-    """상품 슬라이드의 B2B 6항목을 사용자 입력 기준으로 덮어쓴다."""
+    """상품 슬라이드의 B2B 항목과 상세페이지 링크를 사용자 입력 기준으로 덮어쓴다."""
     set_labeled_value(slide, "온라인 최저가", prod.onlineLowestPrice or "")
     set_labeled_value(slide, "공급가", prod.supplyPrice or "")
     set_labeled_value(slide, "재고수량", prod.stockQuantity or "")
     set_labeled_value(slide, "배송비", prod.shippingFee or "")
     set_labeled_value(slide, "카톤수량", prod.cartonQuantity or "")
     set_labeled_value(slide, "옵션 및 구성", prod.options or "")
+    set_detail_link(slide, getattr(prod, "detailLink", "") or "")
 
 
 def needs_slide_assignment(product: SelectedProduct) -> bool:
@@ -267,6 +284,7 @@ def product_snapshot(product: SelectedProduct, catalog_id: str, is_custom: bool)
         "slide_index": -1 if is_custom else product.slide_index,
         "product_name": (product.name or "").strip(),
         "description": product.description,
+        "detailLink": product.detailLink,
         "options": product.options,
         "onlineLowestPrice": product.onlineLowestPrice,
         "supplyPrice": product.supplyPrice,
@@ -413,6 +431,7 @@ async def persist_products(req: ProposalRequest):
             overrides[catalog_id] = {
                 "product_name": snapshot["product_name"],
                 "description": snapshot["description"],
+                "detailLink": snapshot["detailLink"],
                 "options": snapshot["options"],
                 "onlineLowestPrice": snapshot["onlineLowestPrice"],
                 "supplyPrice": snapshot["supplyPrice"],
